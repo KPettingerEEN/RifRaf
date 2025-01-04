@@ -5,8 +5,8 @@ RifRaf is a Social Media App made with Next.js and AWS made to compare with plat
 To Run/Build this application will require all of the following tools/packages and their required dependencies:
 
 * Node Package Manager
-* Next
-* React, React Player, and React Icons
+* Next and React
+* React Player and React Icons
 * AWS-SDK
 * HandBrake
 
